@@ -1,0 +1,19 @@
+.App {
+  min-width: 320px;
+  max-width: 420px;
+  margin: 0 auto;
+  padding: 5px 20px;
+  text-align: center;
+}
+
+.App h1 {
+  color: #4b0082;
+  font-weight: unset;
+}
+
+.today {
+  margin: 10px 0;
+  padding: 10px 10px 20px;
+  font-size: 1.25rem;
+  border: 1px solid #d3d3d3;
+}
